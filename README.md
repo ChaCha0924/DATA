@@ -1,5 +1,4 @@
 ## 파이썬으로 쉽게 풀어쓴 자료구조 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-### "Life is too short, You need Python"
 | | Title | Check | Date |
 |-|-------|-------|------|
 | 1일차 | 01. 자료구조와 알고리즘 | | 2022.09.20 |
