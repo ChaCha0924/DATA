@@ -11,5 +11,5 @@
 | 8일차 | [08. 트리](https://github.com/ChaCha0924/DATA-STRUCTURES-USING-PYTHON/blob/main/08.%20%ED%8A%B8%EB%A6%AC.ipynb) |
 | 9일차 | [09. 탐색트리](https://github.com/ChaCha0924/DATA-STRUCTURES-USING-PYTHON/blob/main/09.%20%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC.ipynb) | 
 | 10일차 | [10. 그래프](https://github.com/ChaCha0924/DATA-STRUCTURES-USING-PYTHON/blob/main/10.%20%EA%B7%B8%EB%9E%98%ED%94%84.ipynb) | 
-| 11일차 | 11. | 
+| 11일차 | [11. 가중치 그래프](https://github.com/ChaCha0924/DATA-STRUCTURES-USING-PYTHON/blob/main/11.%20%EA%B0%80%EC%A4%91%EC%B9%98%20%EA%B7%B8%EB%9E%98%ED%94%84.ipynb) | 
 | 12일차 | 12. | 
