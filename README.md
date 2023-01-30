@@ -6,7 +6,7 @@
 | 3일차 | [03. 리스트와 집합](https://github.com/ChaCha0924/DATA-STRUCTURES-USING-PYTHON/blob/main/03.%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EC%A7%91%ED%95%A9.ipynb) | 
 | 4일차 | [04. 스택](https://github.com/ChaCha0924/DATA-STRUCTURES-USING-PYTHON/blob/main/04.%20%EC%8A%A4%ED%83%9D.ipynb) | 
 | 5일차 | [05. 큐와 덱](https://github.com/ChaCha0924/DATA-STRUCTURES-USING-PYTHON/blob/main/05.%20%ED%81%90%EC%99%80%20%EB%8D%B1.ipynb) | 
-| 6일차 | 06. | 
+| 6일차 | [06. 연결된 구조](https://github.com/ChaCha0924/DATA-STRUCTURES-USING-PYTHON/blob/main/06.%20%EC%97%B0%EA%B2%B0%EB%90%9C%20%EA%B5%AC%EC%A1%B0.ipynb) | 
 | 7일차 | 07. | 
 | 8일차 | 08. |
 | 9일차 | 09. | 
